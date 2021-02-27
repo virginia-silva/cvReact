@@ -1,2 +1,1 @@
-# cvReact
-Curriculum em ReactJS
+<h1 align="center"> App Web Curriculum </h1>
